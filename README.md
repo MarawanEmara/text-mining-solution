@@ -1,5 +1,9 @@
 # text-mining-solution
 
+### Ergebnisaufbereitung
+![min_bounty](https://github.com/MarawanEmara/text-mining-solution/blobmain/min_bounty.png?raw=true)
+![max_bounty](https://github.com/MarawanEmara/text-mining-solution/blobmain/max_bounty.png?raw=true)
+
 ### Planung weiterer Schritte
 
 Wir könnten neue Funktionen einführen, um die .csv-Liste in Abhängigkeit von Schlüsselwörtern aufzuteilen. Ausschließende Schlüsselwörter wären solche, die auf bestimmte unerwünschte Merkmale hinweisen. Wenn ein solches Schlüsselwort beim Durchgehen der Programmliste entdeckt wird, könnten wir es aus der Liste entfernen und einer neuen Liste hinzufügen. Alternativ könnten wir eine Spalte in der Liste erstellen, die angibt, welche Programme ein- oder ausgeschlossen werden sollen.
