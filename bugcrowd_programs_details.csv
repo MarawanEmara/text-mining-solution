@@ -1,0 +1,1396 @@
+name,url,details
+Ibotta,https://bugcrowd.com/ibotta,"
+
+
+All domains/properties owned by Ibotta are in scope!
+
+Ibotta continuously pushes out new code.
+Please take care when testing on production not to compromise the functioning of any Ibotta assets or users on the platform.
+
+Recent Scope Additions
+We highly recommend you take a look at this additional attack surface – which hopefully means more vulnerabilities! 
+
+
+
+Name
+URL
+Description
+
+
+
+
+Chrome Extension Beta
+Access Here
+
+Here is a User Guide The Ibotta team is looking for testing that ensures the pop-up interaction with their other product areas (such as the next item or loyalty card linking) is secure and would like to know about any sensitive data exposure.
+
+
+Web v2
+Access Here
+This is a refreshed web application for the Ibotta Team. Please note that there are some scope exclusions for this target: Access Token Exposure, the ability to scrape the site, and data flow to 3rd parties is intended and reports will be considered informational unless they are chained to create a larger vulnerability.
+
+
+
+Rewards
+
+
+
+$
+iOS, Android, API
+Web
+
+
+
+
+P1
+$5,000
+$1,500
+
+
+P2
+$2,250
+$900
+
+
+P3
+$750
+$300
+
+
+P4
+$250
+$100
+
+
+
+
+
+
+
+Scope and rewards
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+This program does not offer financial or point-based rewards for
+P5
+— Informational findings.
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+Step Public Applications,https://bugcrowd.com/step-public,"
+
+
+No technology is perfect and Step believes that working with skilled security researchers across the globe is crucial in identifying weaknesses in any technology. We are excited for you to participate as a security researcher to help us identify vulnerabilities in our mobile apps. Good luck, and happy hunting!
+Ratings/Rewards:
+For the initial prioritization/rating of findings, this program will use the Bugcrowd Vulnerability Rating Taxonomy. However, it is important to note that in some cases a vulnerability priority will be modified due to its likelihood or impact. In any instance where an issue is downgraded, a full, detailed explanation will be provided to the researcher - along with the opportunity to appeal, and make a case for a higher priority.
+
+
+
+
+Scope and rewards
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+This program does not offer financial or point-based rewards for
+P5
+— Informational findings.
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+Registrar.gov: Bug Bounty Program,https://bugcrowd.com/registrar-dotgov,"
+
+
+Verisign Responsible Disclosure Program Terms:
+We appreciate security researchers who help us keep Verisign employees and systems secure by reporting vulnerabilities in our services or infrastructure. Researchers who report such vulnerabilities may receive monetary bounties subject to the terms and conditions outlined below. To qualify for a bounty, researchers must meet the following requirements:
+
+You must adhere to our Responsible Disclosure Policy (see below). 
+Your report must address one of the in-scope Targets listed under “Bug Bounty Program Scope"" and must identify an eligible vulnerability (see below).
+We specifically exclude certain targets as out-of-scope and certain security issues as ineligible (see below). 
+You should provide sufficient proof of the vulnerability, such as a written description of the vulnerability or a screenshot demonstrating its existence. 
+You agree to convey any and all intellectual property rights arising from or relating to each vulnerability you provide under Verisign's Program Brief. 
+If you inadvertently access account data, service configurations, or other confidential information (collectively “Data"") while investigating an issue, you are prohibited from saving, storing, transferring or otherwise further accessing any and all such Data after discovery.
+
+In turn, we follow these guidelines when evaluating reports under our bug bounty program:
+
+We investigate all reports and respond to all reports relating to in-scope targets and eligible vulnerabilities. Due to the volume of reports we receive, we prioritize evaluations based on risk and other factors, and it may take some time before you receive a reply. 
+We determine bounty amounts based on a variety of factors, including (but not limited to) impact, ease of exploitation, and quality of the report. You can find further information in our Rewards Guidelines below. 
+We generally pay similar amounts for similar issues, but bounty amounts and qualifying issues may change over time. Past rewards do not necessarily guarantee similar results in the future. 
+In the event of duplicate reports addressing the same vulnerability, we award a bounty to the first person to report an issue with sufficient proof.
+We reserve the right to publish reports (and accompanying updates). 
+We may post a list of researchers who have submitted valid security reports. If you receive a bounty for discovery of a vulnerability, you are eligible to be included in this list, but you may opt not to be included if you wish. We reserve the right to limit or modify the information accompanying your name in the list. 
+[Bugcrowd] verifies that all bounty awards are permitted by applicable laws, including (but not limited to) US trade sanctions and economic restrictions.
+Verisign employees and their immediate family are not eligible to participate. 
+
+Verisign Responsible Disclosure Policy:
+Verisign expressly authorizes researching and reporting security issues in a manner that complies with the policies below, and, Verisign will not initiate a lawsuit against you or seek any law enforcement investigation against you in response to such authorized research and reports. We require that:
+
+You make a good faith effort to avoid privacy violations and disruptions to others. You specifically should avoid unauthorized access to, or destruction of, data and interruption or degradation of our services.
+You do not exploit a security issue you discover for any reason. Impermissible exploitation includes, but is not limited to, actions intended to demonstrate the potential impact or risk of the vulnerability, such as attempts to compromise sensitive company data or probing for additional issues related to an eligible vulnerability in an in-scope target that exceeds any of the policies addressed here. 
+You do not intentionally violate any applicable laws or regulations, including (but not limited to) laws and regulations prohibiting the unauthorized access to data.
+
+You are not authorized to access user data or company data, including (but not limited to) personally identifiable information or other data relating to an identified or identifiable natural person. If you inadvertently access personal or company data while investigating an issue, you are prohibited from saving, storing, transferring or otherwise further accessing any and all such data after discovery.
+Bug Bounty Program Scope:
+Below is a list of in-scope and out-of-scope servers and websites, and a list of eligible and ineligible vulnerabilities to help guide your research. If you are unsure whether a service or vulnerability will qualify you for a bounty or not, feel free to ask support@bugcrowd.com.
+
+
+
+
+Scope and rewards
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+This program does not offer financial or point-based rewards for
+P5
+— Informational findings.
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+Verisign,https://bugcrowd.com/verisign,"
+
+
+Verisign Responsible Disclosure Program Terms:
+We appreciate security researchers who help us keep Verisign employees and systems secure by reporting vulnerabilities in our services or infrastructure. Researchers who report such vulnerabilities may receive monetary bounties subject to the terms and conditions outlined below. To qualify for a bounty, researchers must meet the following requirements:
+
+You must adhere to our Responsible Disclosure Policy (see below). 
+Your report must address one of the in-scope Targets listed under “Bug Bounty Program Scope"" and must identify an eligible vulnerability (see below).
+We specifically exclude certain targets as out-of-scope and certain security issues as ineligible (see below). 
+You should provide sufficient proof of the vulnerability, such as a written description of the vulnerability or a screenshot demonstrating its existence. 
+You agree to convey any and all intellectual property rights arising from or relating to each vulnerability you provide under Verisign's Program Brief. 
+If you inadvertently access account data, service configurations, or other confidential information (collectively “Data"") while investigating an issue, you are prohibited from saving, storing, transferring or otherwise further accessing any and all such Data after discovery.
+
+In turn, we follow these guidelines when evaluating reports under our bug bounty program:
+
+We investigate all reports and respond to all reports relating to in-scope targets and eligible vulnerabilities. Due to the volume of reports we receive, we prioritize evaluations based on risk and other factors, and it may take some time before you receive a reply. 
+We determine bounty amounts based on a variety of factors, including (but not limited to) impact, ease of exploitation, and quality of the report. You can find further information in our Rewards Guidelines below. 
+We generally pay similar amounts for similar issues, but bounty amounts and qualifying issues may change over time. Past rewards do not necessarily guarantee similar results in the future. 
+In the event of duplicate reports addressing the same vulnerability, we award a bounty to the first person to report an issue with sufficient proof.
+We reserve the right to publish reports (and accompanying updates). 
+We may post a list of researchers who have submitted valid security reports. If you receive a bounty for discovery of a vulnerability, you are eligible to be included in this list, but you may opt not to be included if you wish. We reserve the right to limit or modify the information accompanying your name in the list. 
+[Bugcrowd] verifies that all bounty awards are permitted by applicable laws, including (but not limited to) US trade sanctions and economic restrictions.
+Verisign employees and their immediate family are not eligible to participate. 
+
+Verisign Responsible Disclosure Policy:
+Verisign expressly authorizes researching and reporting security issues in a manner that complies with the policies below, and, Verisign will not initiate a lawsuit against you or seek any law enforcement investigation against you in response to such authorized research and reports. We require that:
+
+You make a good faith effort to avoid privacy violations and disruptions to others. You specifically should avoid unauthorized access to, or destruction of, data and interruption or degradation of our services.
+You do not exploit a security issue you discover for any reason. Impermissible exploitation includes, but is not limited to, actions intended to demonstrate the potential impact or risk of the vulnerability, such as attempts to compromise sensitive company data or probing for additional issues related to an eligible vulnerability in an in-scope target that exceeds any of the policies addressed here. 
+You do not intentionally violate any applicable laws or regulations, including (but not limited to) laws and regulations prohibiting the unauthorized access to data.
+
+You are not authorized to access user data or company data, including (but not limited to) personally identifiable information or other data relating to an identified or identifiable natural person. If you inadvertently access personal or company data while investigating an issue, you are prohibited from saving, storing, transferring or otherwise further accessing any and all such data after discovery.
+Bug Bounty Program Scope:
+Below is a list of in-scope and out-of-scope servers and websites, and a list of eligible and ineligible vulnerabilities to help guide your research. If you are unsure whether a service or vulnerability will qualify you for a bounty or not, feel free to ask support@bugcrowd.com.
+
+
+
+
+Scope and rewards
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+This program does not offer financial or point-based rewards for
+P5
+— Informational findings.
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+Indeed,https://bugcrowd.com/indeed,"
+
+
+Since 2004, Indeed has given job seekers free access to millions of jobs from thousands of company websites and job boards. As the leading pay-for-performance recruitment advertising network, Indeed drives millions of targeted applicants to jobs in every field and is the most cost-effective source of candidates for thousands of companies. We take our security very seriously and welcome any responsible disclosure of potential gaps in our systems. Please read through the following details to help you focus on the areas most important to us.
+
+Testing Requirements
+
+Research should be performed only through the job seeker, advertiser, and/or publisher account that you create on Indeed. Indeed regularly purges accounts that perform suspicious activities on our web properties; to avoid this, please use accounts with “+bugbounty” in the username for example: username+bugbounty@bugcrowdninja.com.
+Please append your user agent header value with ""Bugcrowd.replace_with_your_bugcrowd_username"". When testing with Burpsuite you can use match and replace for your user agent string in Proxy options, appending the requested value to user agent string of your choice.
+
+
+Program Ground Rules
+
+Respect our users' privacy.
+Leave the Site as you found it.
+Don't violate our Terms of Service or the law.
+Don't access the data of others.
+Don't impact our services.
+No interacting with others.
+Cooperate with Indeed.
+Follow Bugcrowd's rules.
+
+Respect our users’ privacy.
+If during your research you happen to encounter any information about another user or other individual, immediately stop and report this to Indeed. To participate in this program, you only need to explain the technical vulnerability you discovered.
+Leave the Site as you found it.
+Do not copy, save, store, transfer, disclose, or otherwise retain any information you find on our Site during your research, except to report your research to Indeed.
+Don't violate our Terms of Service or the law.
+All access to our Site must otherwise be in accordance with our Terms of Service and all applicable laws. 
+In the event you access PII or other sensitive data, note that you are required to follow all laws and regulations applicable to the access and processing of such personally identifiable information and/or data, such as the California Consumer Privacy Act of 2018, the California Privacy Rights Act of 2020 once it becomes effective, and the European Union’s General Data Protection Regulation (Regulation (EU) 2016/679), including the European Commission’s Standard Contractual Clauses regarding the transfer of personal data to processors.
+Don't access the data of others.
+You must avoid any viewing, copying, altering, destroying, or otherwise interacting with any data, in particular data of other individuals, to which you may gain access through this research.  If you happen to interact in any way with another individual's data, you must report this to us immediately.
+If a vulnerability provides unintended access to data, limit the amount of data you access to the minimum required for effectively demonstrating the vulnerability, cease testing, and submit a report immediately if you encounter any user data during testing. This may include Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information.
+Don't impact our services.
+You must avoid causing any interruption or degradation of our services. Researchers who are found to be using aggressive automated tools will be blocked and removed from the program.
+No interacting with others.
+Any form of interaction with others on or through our Site, including but not limited to other Indeed users, is strictly prohibited.
+Cooperate with Indeed.
+You will be expected to cooperate with us if we request your assistance in connection with your research.
+Follow Bugcrowd’s rules.
+This program follows Bugcrowd’s standard disclosure terms.
+
+
+
+
+
+Scope and rewards
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+This program does not offer financial or point-based rewards for
+P5
+— Informational findings.
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+LifterLMS,https://bugcrowd.com/lifterlms,"
+
+
+LifterLMS is a powerful WordPress LMS plugin that makes it easy to create, sell, and protect engaging online courses and training based membership websites.
+Ratings:
+For the initial prioritization/rating of findings, this program will use the Bugcrowd Vulnerability Rating Taxonomy. However, it is important to note that in some cases a vulnerability priority will be modified due to its likelihood or impact. In any instance where an issue is downgraded, a full, detailed explanation will be provided to the researcher - along with the opportunity to appeal, and make a case for a higher priority.
+
+
+
+
+Scope
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+Telstra VDP,https://bugcrowd.com/telstra-vdp,"
+
+
+Thank you for participating in Telstra Vulnerability Disclosure Program. Telstra takes the security of our systems and our customer data seriously.
+No technology is perfect and Telstra believes that working with skilled security researchers across the globe is crucial in identifying weaknesses in any technology. We are excited for you to participate as a security researcher to help us identify vulnerabilities in our assets.
+We will be onboarding new systems into scope as the program continues. Please stay tuned to the announcements on this page!
+Ratings:
+For the initial prioritisation/rating of findings, this program will use the Bugcrowd Vulnerability Rating Taxonomy. However, it is important to note that in some cases a vulnerability priority will be modified due to its likelihood or impact. In any instance where an issue is downgraded, a full, detailed explanation will be provided to the researcher - along with the opportunity to appeal, and make a case for a higher priority.
+
+
+
+
+Scope
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+ThousandEyes Bug Bounty,https://bugcrowd.com/thousandeyes-og,"
+
+
+The name ThousandEyes was born from two big ideas: the power to see things not ordinarily possible and the ability to collect insights from a multitude of vantage points. As organizations rely more on cloud services and the Internet, the network has become a black box they can't understand. ThousandEyes gives organizations visibility into the now borderless network, arming them with an accurate understanding of how the network impacts their applications, users, and customers.
+
+This program adheres to the Bugcrowd Vulnerability Rating Taxonomy for the prioritization/rating of findings.
+Guidelines:
+
+Please note that this is a live, production environment.
+Automated vulnerability scans are strictly prohibited (this includes any kind of brute-force enumeration).
+Keep information about any vulnerabilities you have discovered confidential between yourself and ThousandEyes. Any disclosure without prior approval is grounds for removal from the program, and forfeiture of any reward.
+You must ensure that service operation and integrity and confidentiality of customer data are not affected in any way as a result of your testing. Any form of Denial of Service testing is strictly prohibited. If you believe you have identified a vector by which DoS can be performed, please reach out to USSR@thousandeyes.com.
+This is a Private Program, so you must not discuss program details including Program name, scope, Vulnerability details, bounty structure, account information, or any other detail to anyone who is not a Bugcrowd employee or member of this program. When collaborating with other Finders on the Program, be sure to do so in a secure manner, in accordance with disclosure requirements listed in Bugcrowd’s Code of Conduct.
+Please ensure that the string “Bugcrowd-<BugcrowdUsername>” is appended to your user agent for all HTTP/HTTPS traffic before performing any testing. Example instructions on how to modify the user agent string for Chrome can be found here and for Burp Suite can be found here.
+
+
+
+
+
+Scope and rewards
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+This program does not offer financial or point-based rewards for
+P5
+— Informational findings.
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+Professional Counselling Provider,https://bugcrowd.com/programs/teasers/dKZe19MnPivPJUoEgw3f5f4S,"
+
+
+Wide scope web, Android and iOS targets with generous rewards
+We're looking for data leaks! 
+
+
+
+Reward range
+Last updated 22 Nov 2022 17:25:25 UTC
+
+
+
+
+Technical severity
+Reward range
+
+
+
+
+
+
+p1
+
+
+Critical
+
+
+
+$20,000 - $20,000
+
+
+
+
+
+p2
+
+
+Severe
+
+
+
+$12,000 - $12,000
+
+
+
+
+
+p3
+
+
+Moderate
+
+
+
+$2,000 - $2,000
+
+
+
+
+
+p4
+
+
+Low
+
+
+
+$500 - $500
+
+
+
+
+
+
+
+
+P5 submissions do not receive any rewards for this program.
+
+
+
+
+Targets
+
+
+
+
+website
+
+
+
+
+ios
+
+
+
+
+android
+
+
+
+
+other
+
+
+
+
+
+The wide scope program includes 10+ web targets and allows for a self sign up process with detailed instructions to get you started with your testing quickly
+
+
+
+
+Program rules
+
+
+
+Learn more about Bugcrowd’s VRT.
+
+
+
+"
+Leading Financial company needs your help!,https://bugcrowd.com/programs/teasers/red-moon-8769,"
+
+
+You can help secure a Financial services cooperative, and one of the largest federation of credit unions in North America. Find bugs on some of these assets to help make their members/customers even safer!
+
+
+
+Reward range
+Last updated 24 Nov 2022 16:27:06 UTC
+
+
+
+
+Technical severity
+Reward range
+
+
+
+
+
+
+p1
+
+
+Critical
+
+
+
+$5,000 - $10,000
+
+
+
+
+
+p2
+
+
+Severe
+
+
+
+$2,000 - $4,000
+
+
+
+
+
+p3
+
+
+Moderate
+
+
+
+$500 - $1,000
+
+
+
+
+
+p4
+
+
+Low
+
+
+
+$300 - $300
+
+
+
+
+
+
+
+
+P5 submissions do not receive any rewards for this program.
+
+
+
+
+Targets
+
+
+
+
+website
+
+
+
+
+android
+
+
+
+
+ios
+
+
+
+
+
+WebApps, Mobile Apps
+
+
+
+
+Program rules
+
+
+
+Learn more about Bugcrowd’s VRT.
+
+
+
+"
+An electronics retailer would like your help!,https://bugcrowd.com/programs/teasers/eQTUitf7a1btxJGEXtAWMtYd,"
+
+
+Checkout their web target!
+
+
+
+Reward range
+Last updated 21 Jun 2022 14:06:28 UTC
+
+
+
+
+Technical severity
+Reward range
+
+
+
+
+
+
+p1
+
+
+Critical
+
+
+
+$2,100 - $2,500
+
+
+
+
+
+p2
+
+
+Severe
+
+
+
+$1,000 - $1,250
+
+
+
+
+
+p3
+
+
+Moderate
+
+
+
+$150 - $200
+
+
+
+
+
+p4
+
+
+Low
+
+
+
+$50 - $75
+
+
+
+
+
+
+
+
+P5 submissions do not receive any rewards for this program.
+
+
+
+
+Targets
+
+
+
+
+website
+
+
+
+
+
+Program is particularly interested in attacks that might reveal customer information or result in an account takeover.
+
+
+
+
+Program rules
+
+
+
+Learn more about Bugcrowd’s VRT.
+
+
+
+"
+Rarible,https://bugcrowd.com/rarible-ogmbb,"
+
+
+Rarible values the work done by security researchers in improving the security of our products and service offerings. We are committed to working with this community to verify, reproduce, and respond to legitimate reported vulnerabilities. We encourage the community to participate in our responsible reporting process.
+
+
+
+
+Scope and rewards
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+This program does not offer financial or point-based rewards for
+P5
+— Informational findings.
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+Blackbaud Vulnerability Disclosure Program,https://bugcrowd.com/blackbaud-vdp,"
+
+
+Blackbaud and our Cyber Security program is committed to the security of our systems, products, and our customer information. We appreciate the valuable contributions of the Cyber Security community.
+In order to work with us better, we'd like to share a few guidelines on reporting vulnerabilities to us. We expect that each security researcher aligns with our core values throughout their engagement with us. This will help facilitate a collaborative working environment and instills trust in all participants of the engagement. The Blackbaud core values are: We work as One, We bring heart, We invent possibilities, We expect the best, We give back.
+Focus Areas:
+
+Are you able to retrieve any PII from other users?
+
+Ratings:
+For the initial prioritization/rating of findings, this program will use the Bugcrowd Vulnerability Rating Taxonomy. However, it is important to note that in some cases, a vulnerability priority will be modified due to its likelihood or impact. In any instance where an issue is downgraded, a full, detailed explanation will be provided to the researcher - along with the opportunity to appeal, and make a case for a higher priority.
+
+
+
+
+Scope
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+NiceHash,https://bugcrowd.com/nicehash-og,"
+
+
+NiceHash is the leading platform for mining and trading cryptocurrencies. Earn Bitcoin by connecting your PC and trade over 60 coins on our exchange.
+No technology is perfect and NiceHash believes that working with skilled security researchers across the globe is crucial in identifying weaknesses in any technology. We are excited for you to participate as a security researcher to help us identify vulnerabilities in our targets. Good luck, and happy hunting!
+Ratings/Rewards:
+Important information about rewards
+For this program, NiceHash will reward researchers in Bitcoin. For that you will need to provide NiceHash your Bitcoin wallet address so they can arrange the transaction.
+For the initial prioritization/rating of findings, this program will use the Bugcrowd Vulnerability Rating Taxonomy. However, it is important to note that in some cases a vulnerability priority will be modified due to its likelihood or impact. In any instance where an issue is downgraded, a full, detailed explanation will be provided to the researcher - along with the opportunity to appeal, and make a case for a higher priority.
+
+
+
+
+Scope
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+StackPath,https://bugcrowd.com/stackpath,"
+
+
+Our platform of secure edge services is developed in pursuit of our ultimate mission: to make the internet safe. We greatly value the hard work and genius of the internet security research community, and welcome reports of any discovered StackPath platform vulnerability.
+If you identify a vulnerability in our platform please notify us right away through the methods outlined in our Vulnerability Disclosure Program. We investigate all reported vulnerabilities and resolve identified issues as quickly as possible. We appreciate your efforts and cooperation avoiding privacy violations, damaging data, or otherwise interrupting or causing a negative impact on any of our services as you conduct your research.
+
+Ratings:
+For the initial prioritization/rating of findings, this program will use the Bugcrowd Vulnerability Rating Taxonomy. However, it is important to note that in some cases a vulnerability priority will be modified due to its likelihood or impact. In any instance where an issue is downgraded, a full, detailed explanation will be provided to the researcher - along with the opportunity to appeal, and make a case for a higher priority.
+
+Guidelines
+
+Perform research only within scope.
+If you find a vulnerability that exposes customer or employee personal information, Stop testing and report the issue immediately.
+If you gain access to any non-public application or non-public credentials, Stop testing and report the issue immediately.
+Do not purposefully attempt to degrade systems or services during testing.
+Collect and submit all information necessary to demonstrate the vulnerability.
+Submit any necessary screenshots, screen captures, network requests, reproduction steps or similar using the Bugcrowd submission form (do not use third party file sharing sites).
+Only target your own account and do not attempt to access data from anyone else’s account that you do not expressly own.
+Follow the Bugcrowd “Coordinated Disclosure” rules
+
+
+
+Focus Areas
+
+Cross Site Scripting (XSS)
+Cross-Site Request Forgery (CSRF)
+Cross-Origin Resource Sharing (CORS)
+Server-side Request Forgery (SSRF)
+XML External Entities (XXE)
+SQL Injection (SQLi)
+Authentication related issues
+Authorization related issues
+Data Exposure
+Redirection attacks
+Remote Code Execution (RCE)
+Clickjacking
+Insecure Deserialization
+Business Logic
+Unauthorized API actions
+Domain takeover
+Web Application Firewall (WAF)
+Application Denial of Service (L7 DoS)
+Clever vulnerabilities that do not fall into the above categories
+
+
+Excluded Submission Types
+
+Issues determined to be low impact
+Tenant/cloud systems where StackPath is simply acting as the site host
+Security vulnerabilities in third-party products or websites that are not under StackPath's direct control
+Vulnerability reports which do not include careful manual validation
+Reports based only on results from automated tools and scanners
+Theoretical attack vectors without proof of exploitability
+Any customer hosted systems or services
+Social engineering and physical attacks
+Missing or incorrect SPF/DMARC/DKIM records
+Abandoned CNAME records are excluded unless there is an existing link from a company resource to the invalid CNAME
+Clickjacking reports against unauthenticated pages and/or static content resources
+POST based Reflected XSS / Self XSS
+Vulnerabilities which send unsolicited bulk messages (spam)
+Denial of Service attacks that require large volumes of data
+
+Third-party websites
+Researchers will be encouraged to contact the third-party maintainers directly.
+
+
+
+
+
+Scope
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+HostGator VDP,https://bugcrowd.com/hostgator-vdp,"
+
+
+HostGator invites you to test and help secure our primary publicly facing assets - focusing on our main web application. We appreciate your efforts and hard work in making the internet (and HostGator) more secure, and look forward to working with the researcher community to create a meaningful and successful bug bounty program. Good luck and happy hunting!
+
+Ratings:
+For the initial prioritization/rating of findings, this program will use the Bugcrowd Vulnerability Rating Taxonomy. However, it is important to note that in some cases a vulnerability priority will be modified due to its likelihood or impact. In any instance where an issue is downgraded, a full, detailed explanation will be provided to the researcher - along with the opportunity to appeal, and make a case for a higher priority.
+
+Discovering Security Vulnerabilities
+We encourage responsible security research on the Endurance services and products. We allow you to conduct vulnerability research and testing on the Endurance services and products to which you have authorized access. In no event shall your research and testing involve, without limitation:
+
+Accessing, or attempting to access, accounts or data that do not belong to you or your authorized users,
+Any attempt to download, modify, or destroy any data,
+Executing, or attempting to execute, a denial of service attack,
+Sending, or attempting to send, unsolicited or unauthorized email, spam or other forms of unsolicited messages,
+Testing third party websites, applications or services that integrate with any Endurance services,
+Posting, transmitting, uploading, linking to, sending or storing malware, viruses or similar harmful software, or otherwise attempting to interrupt or degrade the Endurance services.
+Any activity that violates any applicable law.
+
+
+Report Formatting
+In the Description of a Vulnerability Report, please format the replication process as an Ordered List. Valid reports, formatted the following way, will be prioritized and accepted faster by Newfold Digital:
+
+Steps To Reproduce: (Add details for how we can reproduce the issue) 
+
+
+[add step 1]
+[add step 2]
+[add step 3]...
+
+
+
+
+
+
+
+
+Scope
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+Seagate VDP,https://bugcrowd.com/seagate-vdp,"
+
+
+Ratings:
+For the initial prioritization/rating of findings, this program will use the Bugcrowd Vulnerability Rating Taxonomy. However, it is important to note that in some cases a vulnerability priority will be modified due to its likelihood or impact. In any instance where an issue is downgraded, a full, detailed explanation will be provided to the researcher - along with the opportunity to appeal, and make a case for a higher priority.
+
+
+
+
+Scope
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+Dfinity Vulnerability Disclosure Program,https://bugcrowd.com/dfinity-vdppro,"
+
+
+Our company recognizes the importance of security, privacy and community, and values the input of hackers acting in good-faith to help us maintain a high standard for our users. This includes encouraging responsible vulnerability research and the disclosure of security vulnerabilities.
+This bug bounty program focuses on the Internet Computer Protocol and core Internet Computer components and canisters. 
+Eligibility
+
+Ensure that the potential security bug you are reporting is in scope as specified in the Scope & Targets section below
+Please treat the report as confidential until the respective teams have a chance to fix the issue. Public disclosure of the vulnerability without abiding by this policy makes it ineligible for rewards
+Do not engage in social engineering techniques or spear-phishing campaigns
+Bugs in third-party code are strictly excluded from the scope.
+Duplicate reports and closely related submissions will be dealt with on a case-by-case basis. If the submissions are determined to be genuine they may be rewarded based on a lower rewards scale
+
+Rewards Payment Process
+1.First, obtain an ICP wallet address. You may use any valid ICP wallet address that best fits your needs and convenience. Below are some custody option examples that you can choose from to obtain a KYCed ICP wallet address. 
+
+Self-Custody (via Keysmith instructions or NNS dapp):
+
+NNS dapp
+     - Learn how to get started or view a more technical walkthrough.
+Keysmith
+     - Follow step-by-step instructions to set up self-custody via Keysmith.
+
+
+3rd Party Custody Solutions
+-Coinbase Pro/Retail
+ -Klever
+ -Plug wallet
+ -Stoic wallet
+ -Coinbase Custody
+
+
+2.Once your ICP wallet address is ready, reply to this email and send the email address you plan to associate your account with before starting the KYC process. The provided email address will be whitelisted on the KYC website (~3 working days).
+3.You will receive an email notification once your email has been whitelisted. Submit your KYC application on the KYC DFINITY page by clicking on ‘Other’ and entering the email address you provided to receive a unique link to begin the verification process. The KYC will be performed by a 3rd party and all information that the DFINITY Foundation receives is the email address and the ICP address.  
+Make sure at every stage of the onboarding process that your wallet address and associated email address are entered correctly to avoid any delay. As a reminder, DFINITY is not responsible for your asset custody nor will it be held accountable for any loss of your ICP distributed to you in the ICP wallet address you have provided.
+If you have any questions regarding your KYC application or obtaining your ICP wallet address, please contact DFINITY Support.
+
+
+
+
+Scope and rewards
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+This program does not offer financial or point-based rewards for
+P5
+— Informational findings.
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+CyberGhost,https://bugcrowd.com/cyberghost,"
+
+
+CyberGhost operates thousands of VPN servers and makes cross-platform VPN applications for all major desktop and mobile operating systems as well as routers and browser extensions.
+CyberGhost takes the security of its applications and services seriously. We've offered an in-house bug bounty program for years and paid out thousands of dollars to security researchers in that time. We value excellent engineering and are always looking for ways to improve the security of our products and services.
+Scope
+Please ensure that your activities remain in-scope to the program. For example, admin panels for data center services we utilize are out of scope because they are not owned, hosted, and operated by CyberGhost. If you are unsure if your testing is considered in-scope please reach out to support@bugcrowd.com to confirm first. A researcher found to be testing out of scope will be ineligible for a reward and we will reserve the right to immediately remove the individual from the program.
+Ratings/Rewards:
+For the initial prioritization/rating of findings, this program will use the Bugcrowd Vulnerability Rating Taxonomy. However, it is important to note that in some cases a vulnerability priority will be modified due to its likelihood or impact. In any instance where an issue is downgraded, a full, detailed explanation will be provided to the researcher - along with the opportunity to appeal, and make a case for a higher priority.
+We will review coordinated disclosures on a case by case basis. However, please note that we will automatically reject any findings that are marked as duplicates or not applicable. Please do not submit a disclosure request if your submission fits into these categories.
+
+
+
+
+Scope and rewards
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+This program does not offer financial or point-based rewards for
+P5
+— Informational findings.
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+Private Internet Access,https://bugcrowd.com/privateinternetaccess,"
+
+
+Private Internet Access operates thousands of VPN servers and makes cross-platform VPN applications for all major operating systems as well as routers and browser extensions.
+Private Internet Access takes the security of its applications and services seriously. We have offered an in-house bug bounty program for years and have awarded thousands of dollars to security researchers. We value excellent engineering and are always looking for ways to improve the security of our products and services.
+Ratings:
+For the initial prioritization/rating of findings, this program will use the Bugcrowd Vulnerability Rating Taxonomy. However, it is important to note that in some cases a vulnerability priority will be modified due to its likelihood or impact. In any instance where an issue is downgraded, a full, detailed explanation will be provided to the researcher - along with the opportunity to appeal, and make a case for a higher priority.
+We will review coordinated disclosures on a case by case basis. However, please note that we will automatically reject any findings that are marked as duplicates or not applicable. Please do not submit a disclosure request if your submission fits into these categories.
+
+
+
+
+Scope and rewards
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+This program does not offer financial or point-based rewards for
+P5
+— Informational findings.
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+Lucid Motors Vulnerability Disclosure Program,https://bugcrowd.com/lucidmotors-vdp,"
+
+
+Lucid Motors cares deeply about maintaining the trust and confidence that our customers place in us. As such, the security of our systems, applications, and data is paramount. If you are a security researcher and have discovered a security vulnerability in one of our services, we appreciate your help in disclosing it to us in a responsible manner. No technology is perfect and Lucid Motors believes that working with skilled security researchers across the globe is crucial in identifying weaknesses in any technology. We are excited for you to participate on our program to help us identify vulnerabilities. Good luck, and happy hunting!
+Ratings/Rewards:
+For the initial prioritization/rating of findings, this program will use the Bugcrowd Vulnerability Rating Taxonomy. However, it is important to note that in some cases a vulnerability priority will be modified due to its likelihood or impact. In any instance where an issue is downgraded, a full, detailed explanation will be provided to the researcher - along with the opportunity to appeal, and make a case for a higher priority.
+
+
+
+
+Scope
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+You Need a Budget (YNAB),https://bugcrowd.com/ynab,"
+
+
+We work hard to keep You Need a Budget secure, and make every effort to keep on top of the latest threats by working with security researchers and companies. If you think we've made a security mistake or have a vulnerability, please tell us right away. If you're the first to alert us and it leads to us making a change, we'll pay you a reward.
+Our Philosophy:
+
+We're on your side! We both want you to find bugs in our application before any bad guys do.
+Please be a hacker, but don't be a jerk. We'll get into more examples later, but that means: Hack your own accounts, not someone else's accounts. Don't perform DoS or DDoS attacks. Don't try to break into our physical offices or do anything illegal. Don't waste our time. This program is an invitation to test our systems. It's not an invitation to be a bad person.
+
+What we hope you find:
+(Actually, we hope you can't find any of this, but you know what we mean.)
+The objective is to discover vulnerabilities in our web application and API.
+Of particular interest are:
+
+Bugs that Allow reading or writing of another user's data
+XSS bugs
+Bugs that Leak Sensitive information between sessions
+Issues that affect Authentication or Session Management
+Anything else classified P1-P3 really gets our attention!
+
+How we classify submissions:
+We classify all submissions based on Bugcrowds Vulnerability Taxonomy. P1s are scary, and we pay the maximum for those. On the other hand, P5s are considered ""recommended practices"", and we intentionally don't follow all recommendations. However, if you submit a P5 and we change our code as a result of your submission, it will be bumped to a P4, and paid out accordingly. 
+Note: Please don't pretend your issue is more severe than it is when describing it. It will lead to lost trust and higher frustration, but it never leads to higher payouts! 
+
+
+
+
+Scope and rewards
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+This program does not offer financial or point-based rewards for
+P5
+— Informational findings.
+Learn more about Bugcrowd’s VRT.
+
+This bounty requires explicit permission to disclose the results of a submission.
+This program does not allow for pivoting via the use/exploitation of issues found during testing.
+
+
+
+
+"
+Lightspeed Retail (X-Series),https://bugcrowd.com/x-series,"
+
+
+Introduction
+Lightspeed Retail X-Series bug bounty program aims to build stronger relationships with the security community by rewarding security researchers for their work in finding security vulnerabilities.
+This page is intended for security researchers. For general information about security, please see our main website.
+Important Notes
+We will make a best effort to meet the following response targets for white hat hackers participating in our program:
+Time to First Response: 1 day
+Time to Triage: 2 days
+Time to Bounty: within 5 business days
+Time to Remediate: Up to 90 days (may be dependent on the severity and complexity, excluding extenuating circumstances)
+Public Disclosure Policy
+
+Please do not discuss any vulnerabilities (even resolved ones) outside of the program without express consent from Lightspeed.
+This program follows Bugcrowd’s disclosure guidelines.
+
+
+
+
+
+
+Scope and rewards
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+This program does not offer financial or point-based rewards for
+P5
+— Informational findings.
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"
+GoPro Awards Webapp Public Program,https://bugcrowd.com/gopro-og-public,"
+
+
+No technology is perfect and GoPro believes that working with skilled security researchers across the globe is crucial in identifying weaknesses in any technology. We are excited for you to participate as a security researcher to help us identify vulnerabilities in our program. Good luck, and happy hunting! Please note this is only for the Awards web application
+Ratings/Rewards:
+For the initial prioritization/rating of findings, this program will use the Bugcrowd Vulnerability Rating Taxonomy. However, it is important to note that in some cases a vulnerability priority will be modified due to its likelihood or impact. In any instance where an issue is downgraded, a full, detailed explanation will be provided to the researcher - along with the opportunity to appeal, and make a case for a higher priority.
+
+
+
+
+Scope and rewards
+
+
+
+
+Program rules
+
+
+This program follows Bugcrowd’s
+standard disclosure terms.
+
+
+For any testing issues (such as broken credentials, inaccessible application, or Bugcrowd Ninja email
+problems), please email support@bugcrowd.com. We will address your issue as soon as possible.
+
+
+
+This program does not offer financial or point-based rewards for
+P5
+— Informational findings.
+Learn more about Bugcrowd’s VRT.
+
+
+
+
+"

@@ -2,6 +2,7 @@ from extraction import *
 from filtering import *
 from main_io import *
 
+
 # Get data from Bugcrowd API
 url = "https://bugcrowd.com/programs.json?sort[]=promoted-desc&page[]=0"
 data = get_data(url)

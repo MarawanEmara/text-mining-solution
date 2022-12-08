@@ -1,4 +1,5 @@
 import pandas as pd
+import json
 
 # Function to save the data as a CSV file
 #
@@ -26,6 +27,8 @@ def jsonify_csv(filename):
     # Read the CSV file
     df = pd.read_csv(filename)
     # Convert the dataframe to a JSON object
-    data = df.to_json(orient='records')
+    data = df.to_json(orient="records")
+    # Convert data to a JSON object
+    data = json.loads(data)
     # Return the JSON object
     return data
