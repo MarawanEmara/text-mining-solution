@@ -23,6 +23,9 @@ def get_program_url(program_url, base_url):
 def filter_data(data):
     # Get the array of programs from the JSON object
     programs = data['programs']
+    # Return if there are no programs
+    if not programs:
+        return None
     # Create an empty array to store the filtered programs
     filtered_programs = []
     # Loop through each program in the array
