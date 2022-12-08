@@ -1,8 +1,8 @@
 # text-mining-solution
 
 ### Ergebnisaufbereitung
-![min_bounty](https://github.com/MarawanEmara/text-mining-solution/blobmain/min_bounty.png?raw=true)
-![max_bounty](https://github.com/MarawanEmara/text-mining-solution/blobmain/max_bounty.png?raw=true)
+![min_bounty](https://github.com/MarawanEmara/text-mining-solution/blobmain/min_bounty.png)
+![max_bounty](https://github.com/MarawanEmara/text-mining-solution/blobmain/max_bounty.png)
 
 ### Planung weiterer Schritte
 
