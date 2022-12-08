@@ -3,6 +3,22 @@ from urllib.request import Request, urlopen
 import json
 import pandas as pd
 
+# Function that gets a page from a URL
+#
+# Input: url (string)
+#
+# Output: page (string)
+#
+
+
+def get_page(url):
+    # Add a user agent to the request to avoid 403 errors
+    response = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    # Read the response and convert it to a JSON object
+    page = urlopen(response).read()
+    # Return the page
+    return page
+
 # Function to get data from the API and return it as a JSON object
 #
 # Input: url (string)
@@ -12,24 +28,25 @@ import pandas as pd
 
 
 def get_data(url):
-    # Add a user agent to the request to avoid 403 errors
-    response = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    # Read the response and convert it to a JSON object
-    page = urlopen(response).read()
+    # Get the page from the URL
+    page = get_page(url)
+    # Convert the page to a JSON object
     data = json.loads(page)
     # Return the JSON object
     return data
 
-# Function to save the data as a CSV file
+# Function to get HTML from a URL
 #
-# Input: data (JSON object), filename (string)
+# Input: url (string)
 #
-# Output: None
+# Output: html (string)
 #
 
 
-def save_as_csv(data, filename):
-    # Convert the JSON object to a pandas dataframe
-    df = pd.DataFrame(data)
-    # Save the dataframe as a CSV file
-    df.to_csv(filename, index=False)
+def get_html(url):
+    # Get the page from the URL
+    page = get_page(url)
+    # Convert the page to a string
+    html = page.decode("utf-8")
+    # Return the string
+    return html
