@@ -6,9 +6,6 @@ from strip_html import *
 bugcrowd_programs = "bugcrowd_programs.csv"
 # Convert the CSV file to a JSON object
 data = jsonify_csv(bugcrowd_programs)
-print(data)
-# print data type
-print(type(data))
 
 # Loop over the JSON object
 for program in data:
