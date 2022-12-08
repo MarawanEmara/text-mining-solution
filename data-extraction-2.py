@@ -19,6 +19,8 @@ for program in data:
     text = strip_tags(str(content))
     # Add the text to the JSON object
     program['details'] = text
+    # Print how many programs are left
+    print(len(data) - data.index(program))
 
 # print(data)
 # Save the JSON object as a CSV file

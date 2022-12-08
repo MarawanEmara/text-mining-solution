@@ -14,7 +14,8 @@ import re
 
 def get_page(url):
     # Add a user agent to the request to avoid 403 errors
-    response = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    response = Request(url, headers={
+                       'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'})
     # Read the response and convert it to a JSON object
     page = urlopen(response).read()
     # Return the page
@@ -68,18 +69,20 @@ def get_numbers(string, sign="$"):
     for item in string:
         # Search from the beginning of the string for numbers
         # Detects numbers that are either 3 digits long or 1-3 digits followed by a comma and 3 digits
-        item = re.search(
-            r"([^\d]|^)\d{1,3},\d{3}([^\d]|$)|([^\d]|^)\d{3}([^\d]|$)", item)
+        new_item = re.search(
+            r"([^\d]|^)\d{1,3},\d{3}([^\d]|$)|([^\d]|^)\d{3,9}([^\d]|$)", item)
+        if new_item is None:
+            item = re.search(r"([^\d]|^)\d{2,9}([^\d]|$)", item)
         # Convert re.Match object to a string
-        item = item.group(0) if item else None
+        new_item = new_item.group(0) if new_item else None
         # If there are no numbers, continue to the next item
-        if item is None:
+        if new_item is None:
             continue
         # Remove all non-number characters
-        item = re.sub(r"[^\d]", "", item)
+        new_item = re.sub(r"[^\d]", "", new_item)
         # Change each item to an integer
-        item = int(item)
+        new_item = int(new_item)
         # Add the number to the list
-        numbers.append(item)
+        numbers.append(new_item)
     # Return the list of numbers
     return numbers

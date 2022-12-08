@@ -6,12 +6,19 @@ import pandas as pd
 bugcrowd_programs_bounty = "bugcrowd_programs_bounty.csv"
 # Convert the CSV file to a JSON object
 data = pd.read_csv(bugcrowd_programs_bounty)
+# Remove all rows with missing values
+data = data.dropna()
 
-# Plot two separate histograms of the minimum and maximum bounty values
-# rounded to the nearest 1000
-sns.histplot(data['min_bounty'].round(-3), kde=False, label='Minimum')
-sns.histplot(data['max_bounty'].round(-3), kde=False, label='Maximum')
-# Add a legend
-plt.legend()
-# Show the plot
-plt.show()
+for i in ['min_bounty', 'max_bounty']:
+    # Convert the values in the column to integers
+    data[i] = data[i].astype(int)
+    # Round all values in the column to the nearest 1000
+    data[i] = data[i].round(-3)
+    # Plot a histogram of the values in the column using matplotlib
+    plt.hist(data[i], bins=20)
+    # Set the title of the plot
+    plt.title(i)
+    # Show the plot
+    plt.show()
+    # Save the plot as a PNG file
+    plt.savefig(i + ".png")

@@ -21,6 +21,8 @@ for program in data:
     program['max_bounty'] = max
     # Remove the details from the JSON object
     del program['details']
+    # Print how many programs are left
+    print(len(data) - data.index(program))
 
 # Save the JSON object as a CSV file
 save_as_csv(data, "bugcrowd_programs_bounty.csv")
